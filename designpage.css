@@ -1,0 +1,191 @@
+*{
+    margin : 0;
+
+}
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.Background{
+    background-color: rgb(6, 63, 63);
+    height: 8vh;
+    margin-bottom: -52px;
+}
+.textStone{
+    color: white;
+    font-size: x-large;
+    position: relative;
+    top: -2px;
+    margin-left: 5px;
+}
+ul{
+    text-align: right;
+}
+ul li{
+    display: inline-block;
+    position: relative;
+    color: white;
+    font-size: x-large;
+    top : -30px;
+    margin-right: 10px;
+}
+
+.image1{
+    background-image: url(Assets/image-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width : 100%;
+    height: 60vh;
+    position: relative;
+    top : -125px;
+}
+
+.textLawnCare{
+    position: relative;
+    color: brown;
+    text-align: center;
+    font-size: xx-large;
+    top : 600px;
+    bottom: 700px;
+
+}
+
+.textDescription{
+    position: relative;
+    color: black;
+    text-align: center;
+    font-size: x-large;
+    top: 680px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
+.txtOurService{
+    position: relative;
+    color: brown;
+    text-align: center;
+    font-size: xx-large;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    top: 400px;
+    bottom: 0px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.image2{
+    background-image: url(Assets/image-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 63vh;
+    position: relative;
+    top : 500px;
+}
+
+.txtSpring{
+    position: relative;
+    color: brown;
+    font-size: xx-large;
+    text-align: center;
+    top : 500px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 1300px;
+    right: -80px;
+}
+
+.txtFlower{
+    position: relative;
+    color: brown;
+    font-size: xx-large;
+    text-align: center;
+    top : 375px;
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 1000px;
+    right: -790px;
+}
+
+.txtDescSpring{
+    position: relative;
+    color: black;
+    font-size: medium;
+    text-align: center;
+    top: 400px;
+    margin-left: 640px;
+    margin-right: 640px;
+    right: 492px;
+}
+
+.txtDescFlower{
+    position: relative;
+    color: black;
+    font-size: medium;
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 650px;
+    top: 327px;
+    left: 500px;
+}
+
+.image3{
+    background-image: url(Assets/fall-pile.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 400px;
+    width: 500px;
+    bottom: -300px;
+    left: 125px;
+}
+
+.image4{
+    background-image: url(Assets/flower.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    position: relative;
+    height: 400px;
+    width: 500px;
+    bottom: 100px;
+    left: 1125px;
+}
+
+.Footer{
+    background-color: rgb(6, 63, 63);
+    color: blanchedalmond;
+    text-align: center;
+    height: 60px;
+    width: 100%;
+}
+
+.imageTwitter{
+    background-repeat: no-repeat;
+    background-size: 40px;
+    height: 35px;
+    width: 35px;
+}
+
+.imageInstagram{
+    background-repeat: no-repeat;
+    background-size: 40px;
+    height: 35px;
+    width: 35px;
+}
+
+.DesignTulisan{
+    color: white;
+}
+
+.DesignTulisan2{
+    color: white;
+}
+
+.image2:Hover{
+    background-image: url(Assets/image-3.jpg);
+    background-position: center;
+}
